@@ -1,0 +1,17 @@
+{
+    "name": "laravel_team/blogpackage",
+    "description": "this is our first blog application package",
+    "type": "blog website",
+    "authors": [
+        {
+            "name": "tapos ghosh",
+            "email": "tapos.aa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "laravel_team\\Blogpackage\\": "src"
+        }
+    },
+    "require": {}
+}
